@@ -12,8 +12,4 @@ public class Persona {
         System.out.println("Nombre: " + nombre + ", Edad: " + edad);
     }
 
-    public static void main(String[] args) {
-        Persona persona = new Persona("Cristina", 19);
-        persona.showInfo();
-    }
-}
+   
